@@ -69,7 +69,7 @@ I'm thrilled to present my recently unveiled 3D portfolio! I wanted to create a 
 ## 🚀 Getting Started
 1. Clone the Repository
 ```bash
-git clone https://github.com/Ali-Sanati/Portfolio.git
+git clone https://github.com/NipunKushwaha-web/3D-Space-Portfolio/
 cd Portfolio
 ```
 2. Install Dependencies
