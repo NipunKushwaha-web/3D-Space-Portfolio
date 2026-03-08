@@ -2,6 +2,8 @@
 
 I'm thrilled to present my recently unveiled 3D portfolio! I wanted to create a space that goes beyond a typical static webpage because I'm a creator who is passionate about pushing the limits of the browser. This interactive experience highlights my journey through contemporary web development and graphic design by utilizing the capabilities of React, Three.js, and Tailwind CSS on a Vite build. Explore the interface and my most recent work by diving in.
 
+<img width="1902" height="979" alt="Screenshot 2026-02-24 113027" src="https://github.com/user-attachments/assets/77e52b4b-14c6-4777-8108-a8ebf698a653" />
+
 ---
 
 ## 📚 Table of Contents
